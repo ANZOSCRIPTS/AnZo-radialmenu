@@ -23,4 +23,6 @@ Requirements
 QB-Core
 
 PER-VIEW
-https://cdn.discordapp.com/attachments/1292142569039593567/1345739553285345300/Screenshot_2025-03-02_180808.png?ex=67c5a520&is=67c453a0&hm=169d0d183c5c266d41ef9bcc7374f26814eca82071299da3b05e447c85acfc49&
+
+![image](https://github.com/user-attachments/assets/b066a630-1074-4b5e-8609-d2089301314f)
+
