@@ -24,5 +24,3 @@ QB-Core
 
 PER-VIEW
 
-![image](https://github.com/user-attachments/assets/b066a630-1074-4b5e-8609-d2089301314f)
-
