@@ -13,5 +13,6 @@ Supports job and player-specific menus.
 Requirements
 QB-Core`
 
-PER-VIEW
+*PER-VIEW* 
+soon
 
